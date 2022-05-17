@@ -8,7 +8,10 @@
   
 ## Location, Location, Location
 
-
 ![Heat Map](Resources/Images/Heat_Map.PNG)
 
+  It seems to be evident by the darker sports in the lower Manhattan, that the downtown parts of the city drive a higher volume of rides. This of course may be influenced by the tourist flux, however, that area also happens to have the Wall Street district for the New York Stock Exchange (NYSE) market and other traffic driving offices. This tells our story from the perspective that bikes should be where the business is.
+  
+## The gender factor
 
+![Gender Breakdown](Resources/Images/Gender_Breakdown.PNG)
