@@ -9,4 +9,6 @@
 ## Location, Location, Location
 
 
-![Heat Map](Resources/Images/
+![Heat Map](Resources/Images/Heat Map)
+
+
