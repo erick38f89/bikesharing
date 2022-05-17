@@ -15,3 +15,23 @@
 ## The gender factor
 
 ![Gender Breakdown](Resources/Images/Gender_Breakdown.PNG)
+
+  We do not believe there is a difference and it is not our job to determine the particular reasons why more men would take bike rides than women, but the analysis shows that the targeted demographic should be males, due to the overwhelming majority of male riders.
+  
+## A comute pattern
+
+![Weekday hours](Resources/Images/Trips_by_Weekday_for_Each_Hour.PNG)
+
+  The concentration of rides during week days, right before and around the start of office hours and right after and around the end of the work day, are a confirmation that most users are bound to an office schedule and indicate that the rides are used as part of the comute of users, maybe from and to office and train stations.
+
+  Furthermore, we were able to make observations by gender, time and location of trips as can be observed below:
+  
+ ![Checkout times by gender](Resources/Images/Checkout_Times_by_Gender.PNG)
+ 
+ ![Checkout times by user](Resources/Images/Checkout_Times_for_Users.PNG)
+ 
+ ![Trips by Weekday](Resources/Images/Trips_by_Weekday_for_Each_Hour.PNG)
+ 
+ ![Trips by Gender](Resources/Images/User_Trips_by_Gender_by_Weekday.PNG)
+ 
+ 
